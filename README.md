@@ -2,7 +2,7 @@
 
 OnJava8 中文翻译
 
-在线阅读：[http://gdut_yy.gitee.io/doc-onjava8/](http://gdut_yy.gitee.io/doc-onjava8/)
+在线阅读：[https://jackiexiangxy.github.io/OnJava8-zh/](https://jackiexiangxy.github.io/OnJava8-zh/)
 
 <img src="./docs/cover.png" width=40%>
 
